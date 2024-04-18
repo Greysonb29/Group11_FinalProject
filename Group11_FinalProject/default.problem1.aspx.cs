@@ -23,5 +23,15 @@ namespace Group11_FinalProject
         {
 
         }
+
+        protected void cmdProblem2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cmdProblem3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
